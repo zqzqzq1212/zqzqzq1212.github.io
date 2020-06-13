@@ -5,8 +5,8 @@ const ap = new APlayer({
     audio: [
       {
         name: "Bad Apple",
-        artist: 'Alstroemeria Records',
-        url: 'http://183.252.54.22/amobile.music.tc.qq.com/C400001AIwva2byPiY.m4a?guid=630563367&vkey=25B665D5A095FE84E4E22DFEAEFBFFFCF248876333DE0A73A86E4A10E76509660841B1B9B8DA9B39B1F873E8A4DF9A3B9D5507F2B90460A7&uin=0&fromtag=66',
+        artist: 'のみこ,Masayoshi Minoshima',
+        url: 'http://music.163.com/song/media/outer/url?id=22645196.mp3',
         cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M000002aUTkw0y32K0_1.jpg?max_age=2592000',
       },
       {
