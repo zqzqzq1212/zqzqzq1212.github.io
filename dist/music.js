@@ -14,6 +14,12 @@ const ap = new APlayer({
 	      artist: 'G.E.M. 邓紫棋',
 	      url: 'http://music.163.com/song/media/outer/url?id=449818741.mp3',
 	      cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M000001mTkmb4GJlh4_1.jpg?max_age=2592000',
-      }
+      },
+	    {
+		    name: "彼女は旅に出る",
+		    artist: '鎖那',
+		    utl: 'http://ws.stream.qqmusic.qq.com/C400001yVHaf1xOqKm.m4a?guid=372851747&vkey=289CEB7DB7029638A17DABF57412E5BD178DD004EAC098F9AE207BD5D04B718B07C08887D4B0BE7D35D8EDA733DABBFEB4F5638F2881C992&uin=0&fromtag=66',
+		    cover: '',
+	    }
     ]
 });
