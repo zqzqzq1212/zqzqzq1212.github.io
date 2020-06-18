@@ -44,6 +44,12 @@ const ap = new APlayer({
             artist :'Mr. Polska',
             url :'http://music.163.com/song/media/outer/url?id=406072775.mp3',
             cover :'https://dss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=1586255637,2792173136&fm=179&app=42&f=JPEG?w=150&h=150&s=FF2A30634050F7DC5C8955070300E0E1',
+        },
+        {
+            name :"Friendships (Original Mix)",
+            artist :'Pascal Letoublon',
+            url :'http://music.163.com/song/media/outer/url?id=505449407.mp3',
+            cover :'https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2149767140,1148780763&fm=179&app=42&f=JPEG?w=150&h=150&s=1326DE05D86AD24D4ABAA94B0300C0FA',
         }
     ]
 });
