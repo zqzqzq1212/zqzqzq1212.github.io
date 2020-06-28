@@ -24,7 +24,7 @@ const ap = new APlayer({
         {
             name :"Sakura (樱花)",
             artist :'R3HAB',
-            url :'http://m128.xiami.net/121/1264881121/2100345738/1776173308_60320148_l.mp3?auth_key=1593054000-0-0-726879ea02d32761744e61ada57473bf',
+            url :'http://m128.xiami.net/121/1264881121/2100345738/1776173308_60320148_l.mp3?auth_key=1593745200-0-0-e3196f60febc8d6fe1a8c88f2727b145',
             cover :'https://y.gtimg.cn/music/photo_new/T002R300x300M000000G0FdY0h4uOI_1.jpg?max_age=2592000',
         },
         {
@@ -50,6 +50,30 @@ const ap = new APlayer({
             artist :'Pascal Letoublon',
             url :'http://music.163.com/song/media/outer/url?id=505449407.mp3',
             cover :'https://dss2.baidu.com/6ONYsjip0QIZ8tyhnq/it/u=2149767140,1148780763&fm=179&app=42&f=JPEG?w=150&h=150&s=1326DE05D86AD24D4ABAA94B0300C0FA',
+        },
+        {
+            name: "lit(var)",
+            artist: '牛尾憲輔',
+            url: 'http://audio04.dmhmusic.com/71_53_T10049753198_128_4_1_0_sdk-cpm/cn/0209/M00/79/00/ChR461zVSEuAD4QsACDr7fw_3bI947.mp3?xcode=dbc54e3e2493b7a368e229b04b38e0cd76d1fbb',
+            cover: 'http://qukufile2.qianqian.com/data2/pic/0a800f8473bddb00eade7d25ad4f6c94/614301265/614301265.jpg@s_2,w_300,h_300', 
+        },
+        {
+            name: "一生所爱",
+            artist: '卢冠廷,莫文蔚',
+            url: 'http://music.163.com/song/media/outer/url?id=25707139.mp3',
+            cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M000001UAAKE4QJguW_1.jpg?max_age=2592000',
+        },
+        {
+            name: "Lifeline(生命线)",
+            artist: 'Zeraphym 六翼使徒',
+            url: 'http://music.163.com/song/media/outer/url?id=38019092.mp3',
+            cover: 'http://y.gtimg.cn/music/photo_new/T002R300x300M0000004lwnx35fYV7_1.jpg?max_age=2592000',
+        },
+        {
+            name: "与你同行～B with U~",
+            artist: '汐月雪遥',
+            url: 'http://music.163.com/song/media/outer/url?id=864618799.mp3',
+            cover: 'https://y.gtimg.cn/music/photo_new/T002R300x300M0000019OgNy3ZscL5_1.jpg?max_age=2592000',
         }
     ]
 });
